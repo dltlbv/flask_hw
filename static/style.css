@@ -1,0 +1,19 @@
+* {
+    font-family: sans-serif;
+}
+
+body {
+    background-image: url(back.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin: 50px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin: 50px;
+}
